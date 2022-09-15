@@ -1,3 +1,3 @@
 # lusterApp
 
-App to revolutionize Hook-Up culture. 
+App to revolutionize Hook-Up culture forever.
